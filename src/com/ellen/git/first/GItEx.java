@@ -3,6 +3,7 @@ package com.ellen.git.first;
 public class GItEx {
 
 	/**
+	 * Author Ellen
 	 * @param args
 	 */
 	public static void main(String[] args) {
